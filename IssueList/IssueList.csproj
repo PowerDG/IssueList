@@ -49,7 +49,14 @@
     <None Include="App.config" />
   </ItemGroup>
   <ItemGroup>
+    <Content Include="Images\cache error when webapi url.png" />
+    <Content Include="Images\cache ok when MVC url.png" />
     <Content Include="Images\ocelot window when cache error.png" />
+    <Content Include="Images\the mvc url ui%28Home Index%29.png" />
+    <Content Include="Images\the ocelot windows when error%28with ocelot code%29.png" />
+    <Content Include="Images\the postman ui when mvc url request again.png" />
+    <Content Include="Images\the postman ui when webapi url request again.png" />
+    <Content Include="Images\the webapi code%28Health Get%29.png" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
