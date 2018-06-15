@@ -56,6 +56,7 @@
     <Content Include="Images\the ocelot windows when error%28with ocelot code%29.png" />
     <Content Include="Images\the postman ui when mvc url request again.png" />
     <Content Include="Images\the postman ui when webapi url request again.png" />
+    <Content Include="Images\the route of Health check.png" />
     <Content Include="Images\the webapi code%28Health Get%29.png" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
